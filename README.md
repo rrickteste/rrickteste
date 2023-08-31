@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo(a) ao meu perfil! 👋😄
 
-✅ Bem vindo ao meu GitHub!
-✅ ETEC Getúlio Vargas - Técnico em Desenvolvimento de Sistemas.
+✅ Bem vindo ao meu GitHub!<br>
+✅ ETEC Getúlio Vargas - Técnico em Desenvolvimento de Sistemas.<br>
 👨🏽‍🎓 1º semestre - Análise e Desenvolvimento de Sistemas (IFSP).
 
 ### Estudando:
@@ -22,5 +22,6 @@
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  align="center" alt="Dan-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+  
   
 
